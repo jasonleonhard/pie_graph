@@ -24,3 +24,8 @@ svg {
 #pie_graph svg{
   padding: 50px;
 }
+
+.text {
+  font-weight: bold;
+  fill: white;
+}
